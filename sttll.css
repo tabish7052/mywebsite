@@ -1,0 +1,136 @@
+#outerbox{
+width:800px;
+height:auto;
+background:gray;
+margin:0px auto;
+text-color:white;
+}
+#headerbox{
+
+width:700px;
+height:300px;
+background-color:green;
+margin-left:32px;
+padding:0px;
+}
+#menubox{
+	width:700px;
+	height:50px;
+	background: radial-gradient(yellow, navy,gray); 
+	margin-left:32px;
+}
+#menu{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+}
+#menu li{
+	display:inline-block;
+	margin-top:17px;
+	padding:0px;
+}
+#menu li a{
+	margin:0px;
+	background-color:red;
+	padding:15px;
+	text-decoration:none;
+	color:white;
+}
+#menu li a:hover{
+background-color:black;	
+	
+}
+#sectionbox
+{
+width:700px;
+height:300px;
+background-color:yellow;
+margin-left:32px;
+padding:0px;
+}
+#a{
+	height:100px;
+	width:172px;
+	background-color:lime;
+	border:1px solid gray;
+	margin:20px;
+	float:left;
+	font-family:'Tw Cen MT';
+font-size:10px;
+}
+#b{
+	height:100px;
+	width:172px;
+	background-color:lime;
+	border:1px solid gray;
+	margin:20px;
+	float:left;
+	font-family:'Tw Cen MT';
+font-size:10px;
+}
+#c{
+	height:100px;
+	width:172px;
+	background-color:lime;
+	border:1px solid gray;
+	margin:20px;
+	float:left;
+	font-family:'Tw Cen MT';
+font-size:10px;
+}
+
+#p{
+	width:700px;
+	height:200px;
+	background-color:pink;
+	margin-left:32px;
+}
+
+#menubox2{
+	
+	
+		width:700px;
+	height:50px;
+	background:white;
+	margin-left:32px;
+	
+}
+#menu{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+}
+#menu li{
+	display:inline-block;
+	margin-top:17px;
+	padding:0px;
+}
+#menu li a{
+	margin:0px;
+	background-color:navy;
+	padding:15px;
+	text-decoration:none;
+	color:white;
+	font-size:15px;
+	font-family:'Tw Cen MT';
+}
+#menu li a:hover{
+background-color:black;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

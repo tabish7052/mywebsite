@@ -1,0 +1,41 @@
+<html>
+<head>
+<style>
+#one
+{
+ width:1000px;
+ height:500px;
+ background-color:gray;
+}
+#two
+{
+ width:100px;
+ height:100px;
+ background-color:red;
+ position:relative;
+ animation-delay:-1s;
+ animation-name:example;
+ animation-duration:3s;
+ animation-fill-mode:forwards;
+ border:10px solid blue;
+ animation-iteration-count:infinite;
+}
+@keyframes example
+{
+from
+{
+ top:0px;
+}
+to
+{
+ top:200px;
+ background-color:blue;
+}
+}
+</style>
+</head>
+<body><div id="one">
+<div id="two">Hellow India></div>
+</div>
+</body>
+</html>

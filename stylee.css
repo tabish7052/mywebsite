@@ -1,0 +1,148 @@
+#outerbox{
+width:auto;
+height:auto;
+background:gray;
+margin:0px auto;
+}
+#headerbox{
+
+width:800px;
+height:150px;
+background-color:green;
+}
+#logobox{
+width:150px;
+height:150px;
+background-color:navy;
+float:left;
+}
+#titlebox{
+width:650px;
+height:100px;
+background: radial-gradient(yellow, green,pink,red); 
+float:left;
+font-size:50px;
+font-weight:bold;
+font-family:'Tw Cen MT';
+text-align:center;
+padding-top:50px;
+}
+
+#sliderbox{
+width:800px;
+height:300px;
+background: radial-gradient(yellow, pink,orange,lime); 
+}
+#menubox{
+	width:800px;
+	height:50px;
+	background: radial-gradient(yellow, navy,gray); 
+}
+#mainbox{
+width:800px;
+height:500px;
+background: radial-gradient(yellow, gray,red,lime); 
+
+}
+#footerbox{
+width:800px;
+height:50px;
+background-color:black;
+color:white;
+text-align:center;
+line-height:50px;
+font-family:'Tw Cen MT';
+}
+#formheading{
+margin:0px;
+text-align:center;
+padding:10px;
+font-family:'Tw Cen MT';
+}
+fieldset{
+width:600px;
+margin:0px auto;
+font-family:'Tw Cen MT';
+font-size:20px;
+padding:20px;
+}
+#formtable{
+font-family:'Tw Cen MT';
+font-size:20px;
+}
+#formtable tr td{
+padding-top:5px;
+}
+input[type='text'],
+input[type='date'],
+textarea
+{
+padding:5px;
+border-radius:0px;
+width:100%;
+border:1px solid black;
+
+}
+input[type='submit']
+{
+padding:10px;
+background-color:navy;
+color:white;
+font-family:'Tw Cen MT';
+font-size:20px;
+}
+#menu{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+	position: absolute;
+  
+}
+#menu li{
+	display:inline-block;
+	margin-top:17px;
+	padding:0px;
+}
+#menu li a{
+	margin:0px;
+	background-color:red;
+	padding:15px;
+	text-decoration:none;
+	color:white;
+}
+#menu li a:hover{
+background-color:black;	
+	
+}
+#tt{
+	font-family:'Tw Cen MT';
+	position:justyfy;
+}
+#c{
+	margin:15px;
+	height:35px;
+	width:150px
+	border-rdius:20%;
+	background:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
